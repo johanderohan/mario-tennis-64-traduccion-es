@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nintendo-64/mario-tennis-64)**.
+
 Traducción al **español de España** de *Mario Tennis* (Nintendo 64, 2000), el juego
 de tenis de Camelot y Nintendo con Mario, Luigi, Peach, Bowser, Waluigi y compañía,
 que nunca salió en castellano.
